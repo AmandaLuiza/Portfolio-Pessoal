@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+body {
+  color:  lightslategray;
+  text-align: -webkit-left;
+}
+.blackTheme {
+  background-color: black;
+}
+
+.whiteTheme {
+  background-color: white;
+}
+
+a {
+  cursor: pointer;
+  padding: 20px;
+  margin-left: 20px;
+    
+}
+button {
+  cursor: pointer;
+  padding: 10px;
+  margin-left: 20px;
+  border-radius: 20px;
+  margin-top: 10px; 
+  
+}
+
+textarea {
+  padding: 5px;
+  margin-left: 10px;
+  border-radius: 5px 5px black;
+  margin-top: 10px; 
+  margin: 5px;
+  background-color: gainsboro;
+  width: 8cm;
+  height: 30px;
+}
+
